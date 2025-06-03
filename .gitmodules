@@ -1,3 +1,7 @@
 [submodule "src/Android_Set_1/Q4/Mini-Solar-System-Visualization"]
 	path = src/Android_Set_1/Q4/Mini-Solar-System-Visualization
 	url = https://github.com/UdayKiran112/Mini-Solar-System-Visualization.git
+[submodule "src/iOS_Assg/RealTimeFilterApp"]
+	path = src/iOS_Assg/RealTimeFilterApp
+	url = https://github.com/UdayKiran112/RealTimeFilterApp.git
+	branch = main
